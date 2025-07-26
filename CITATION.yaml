@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Channi
+    given-names: H. K.
+  - family-names: Sandhu
+    given-names: R.
+  - family-names: Kaur
+    given-names: H.
+  - family-names: Singh
+    given-names: P.
+  - family-names: Gaba
+    given-names: S.
+  - family-names: Kaur
+    given-names: J.
+title: "An Approach for Load Flow and Load Dispatch Analysis of IEEE-9 Bus System"
+conference:
+  name: 2023 2nd International Conference on Ambient Intelligence in Health Care (ICAIHC)
+  location: Bhubaneswar, India
+  date-start: 2023
+date-released: 2023
+---
+authors:
+  - family-names: Rahman
+    given-names: Tasnim Ikra
+title: "Impact of Solar Generation on IEEE 9-bus System"
+type: thesis
+institution:
+  name: "Electronic Theses and Dissertations"
+identifier: 3818
+date-released: 2023
+---
+authors:
+  - family-names: Loji
+    given-names: K.
+  - family-names: Davidson
+    given-names: I. E.
+  - family-names: Tiako
+    given-names: R.
+title: "Voltage Profile and Power Losses Analysis on a Modified IEEE 9-Bus System with PV Penetration at the Distribution Ends"
+conference:
+  name: 2019 Southern African Universities Power Engineering Conference/Robotics and Mechatronics/Pattern Recognition Association of South Africa
+date-released: 2019
